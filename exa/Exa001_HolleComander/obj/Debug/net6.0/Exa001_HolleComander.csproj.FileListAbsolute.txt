@@ -1,0 +1,15 @@
+C:\Users\Денис\Desktop\leson4\exa\Exa001_HolleComander\bin\Debug\net6.0\Exa001_HolleComander.exe
+C:\Users\Денис\Desktop\leson4\exa\Exa001_HolleComander\bin\Debug\net6.0\Exa001_HolleComander.deps.json
+C:\Users\Денис\Desktop\leson4\exa\Exa001_HolleComander\bin\Debug\net6.0\Exa001_HolleComander.runtimeconfig.json
+C:\Users\Денис\Desktop\leson4\exa\Exa001_HolleComander\bin\Debug\net6.0\Exa001_HolleComander.dll
+C:\Users\Денис\Desktop\leson4\exa\Exa001_HolleComander\bin\Debug\net6.0\Exa001_HolleComander.pdb
+C:\Users\Денис\Desktop\leson4\exa\Exa001_HolleComander\obj\Debug\net6.0\Exa001_HolleComander.csproj.AssemblyReference.cache
+C:\Users\Денис\Desktop\leson4\exa\Exa001_HolleComander\obj\Debug\net6.0\Exa001_HolleComander.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Денис\Desktop\leson4\exa\Exa001_HolleComander\obj\Debug\net6.0\Exa001_HolleComander.AssemblyInfoInputs.cache
+C:\Users\Денис\Desktop\leson4\exa\Exa001_HolleComander\obj\Debug\net6.0\Exa001_HolleComander.AssemblyInfo.cs
+C:\Users\Денис\Desktop\leson4\exa\Exa001_HolleComander\obj\Debug\net6.0\Exa001_HolleComander.csproj.CoreCompileInputs.cache
+C:\Users\Денис\Desktop\leson4\exa\Exa001_HolleComander\obj\Debug\net6.0\Exa001_HolleComander.dll
+C:\Users\Денис\Desktop\leson4\exa\Exa001_HolleComander\obj\Debug\net6.0\refint\Exa001_HolleComander.dll
+C:\Users\Денис\Desktop\leson4\exa\Exa001_HolleComander\obj\Debug\net6.0\Exa001_HolleComander.pdb
+C:\Users\Денис\Desktop\leson4\exa\Exa001_HolleComander\obj\Debug\net6.0\Exa001_HolleComander.genruntimeconfig.cache
+C:\Users\Денис\Desktop\leson4\exa\Exa001_HolleComander\obj\Debug\net6.0\ref\Exa001_HolleComander.dll
